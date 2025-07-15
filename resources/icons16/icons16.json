@@ -1,0 +1,211 @@
+[
+    {
+        "nid": "Affinity",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Boosters",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Consumable",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Neutral",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Skills",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Valuable",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "wexp_icons",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Swords",
+        "subicon_dict": {
+            "Swords 0, 0": [
+                0,
+                0
+            ],
+            "Swords 0, 25": [
+                0,
+                25
+            ],
+            "Swords 0, 24": [
+                0,
+                24
+            ],
+            "Swords 0, 23": [
+                0,
+                23
+            ],
+            "Swords 0, 22": [
+                0,
+                22
+            ],
+            "{2WB} (Vanilla + Blitz) Swords 0, 21": [
+                0,
+                21
+            ],
+            "{2WB} (Vanilla + Blitz) Swords 0, 22": [
+                0,
+                22
+            ],
+            "{2WB} (Vanilla + Blitz) Swords 0, 23": [
+                0,
+                23
+            ],
+            "{2WB} (Vanilla + Blitz) Swords 0, 24": [
+                0,
+                24
+            ],
+            "{2WB} (Vanilla + Blitz) Swords 0, 25": [
+                0,
+                25
+            ]
+        }
+    },
+    {
+        "nid": "Dark Tomes",
+        "subicon_dict": {
+            "Dark Tomes 0, 7": [
+                0,
+                7
+            ],
+            "{2WB} (Vanilla + Blitz) Dark Tomes 0, 7": [
+                0,
+                7
+            ]
+        }
+    },
+    {
+        "nid": "Light Tomes",
+        "subicon_dict": {
+            "{2WB} (Vanilla + Blitz) Light Tomes 0, 6": [
+                0,
+                6
+            ]
+        }
+    },
+    {
+        "nid": "Bows",
+        "subicon_dict": {
+            "{2WB} (Vanilla + Blitz) Bows 0, 12": [
+                0,
+                12
+            ]
+        }
+    },
+    {
+        "nid": "Dragonstones",
+        "subicon_dict": {
+            "{2WB} (Vanilla + Blitz) Dragonstones 0, 0": [
+                0,
+                0
+            ],
+            "{2WB} (Vanilla + Blitz) Dragonstones 0, 1": [
+                0,
+                1
+            ],
+            "{2WB} (Vanilla + Blitz) Dragonstones 0, 2": [
+                0,
+                2
+            ],
+            "{2WB} (Vanilla + Blitz) Dragonstones 0, 3": [
+                0,
+                3
+            ]
+        }
+    },
+    {
+        "nid": "Staves",
+        "subicon_dict": {
+            "{2WB} (Vanilla + Blitz) Staves 0, 16": [
+                0,
+                16
+            ],
+            "{2WB} (Vanilla + Blitz) Staves 0, 17": [
+                0,
+                17
+            ]
+        }
+    },
+    {
+        "nid": "Lances",
+        "subicon_dict": {
+            "{2WB} (Vanilla + Blitz) Lances 0, 17": [
+                0,
+                17
+            ],
+            "{2WB} (Vanilla + Blitz) Lances 0, 18": [
+                0,
+                18
+            ]
+        }
+    },
+    {
+        "nid": "Anima Tomes",
+        "subicon_dict": {
+            "{2WB} (Vanilla + Blitz) Anima Tomes 0, 6": [
+                0,
+                6
+            ],
+            "{2WB} (Vanilla + Blitz) Anima Tomes 0, 7": [
+                0,
+                7
+            ],
+            "Anima Tomes 0, 6": [
+                0,
+                6
+            ],
+            "{2WB} (Vanilla + Blitz) Anima Tomes 0, 5": [
+                0,
+                5
+            ],
+            "{2WB} (Icon Blitz 1) Anima Tomes 0, 5": [
+                0,
+                5
+            ],
+            "Anima Tomes 0, 7": [
+                0,
+                7
+            ],
+            "{2WB} (Vanilla + Blitz) Anima Tomes 0, 8": [
+                0,
+                8
+            ],
+            "{2WB} (Vanilla + Blitz) Anima Tomes 0, 9": [
+                0,
+                9
+            ]
+        }
+    },
+    {
+        "nid": "Axes",
+        "subicon_dict": {
+            "{2WB} (Vanilla + Blitz) Axes 0, 17": [
+                0,
+                17
+            ],
+            "Axes 0, 18": [
+                0,
+                18
+            ],
+            "{SacredStones} Axes 0, 18": [
+                0,
+                18
+            ]
+        }
+    },
+    {
+        "nid": "Upgrades",
+        "subicon_dict": {}
+    }
+]

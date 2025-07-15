@@ -1,0 +1,412 @@
+[
+    [
+        "Chapter Sound",
+        false,
+        false
+    ],
+    [
+        "Distant Roads",
+        false,
+        false
+    ],
+    [
+        "Quiet Burn",
+        false,
+        true
+    ],
+    [
+        "Shadow of the Enemy",
+        false,
+        false
+    ],
+    [
+        "Main Theme",
+        false,
+        false
+    ],
+    [
+        "Grasp at Victory",
+        false,
+        false
+    ],
+    [
+        "Attack",
+        false,
+        false
+    ],
+    [
+        "Defense",
+        false,
+        false
+    ],
+    [
+        "The Battle Must Be Won",
+        false,
+        false
+    ],
+    [
+        "Healing",
+        false,
+        false
+    ],
+    [
+        "Combat Preparation",
+        false,
+        false
+    ],
+    [
+        "Shops",
+        false,
+        false
+    ],
+    [
+        "Armory",
+        false,
+        false
+    ],
+    [
+        "Game Over",
+        false,
+        false
+    ],
+    [
+        "In Sorrows Shroud",
+        false,
+        false
+    ],
+    [
+        "To A Higher Place",
+        false,
+        false
+    ],
+    [
+        "10-Beyond the Sky",
+        false,
+        false
+    ],
+    [
+        "02-Deer of the Mainland",
+        false,
+        false
+    ],
+    [
+        "43-Suspicious",
+        false,
+        false
+    ],
+    [
+        "23-In the Name of Bern",
+        false,
+        false
+    ],
+    [
+        "47-Cath",
+        false,
+        false
+    ],
+    [
+        "48-Join Us",
+        false,
+        false
+    ],
+    [
+        "05-Land of Dragons",
+        false,
+        false
+    ],
+    [
+        "35-When the Rush Comes",
+        false,
+        false
+    ],
+    [
+        "56-Happiness Abounds",
+        false,
+        false
+    ],
+    [
+        "65-Attack",
+        false,
+        false
+    ],
+    [
+        "66-Revenge",
+        false,
+        false
+    ],
+    [
+        "17-Shadow Approaches",
+        false,
+        false
+    ],
+    [
+        "15-Scars of the Scouring",
+        false,
+        false
+    ],
+    [
+        "13-Beneath a New Light",
+        false,
+        false
+    ],
+    [
+        "14-Path of the Divine Generals",
+        false,
+        false
+    ],
+    [
+        "11-For the Commanders",
+        false,
+        false
+    ],
+    [
+        "12-Within the Magnificent Nature",
+        false,
+        false
+    ],
+    [
+        "39-Into the Shadow of Triumph",
+        false,
+        false
+    ],
+    [
+        "38-Triumph",
+        false,
+        false
+    ],
+    [
+        "34-An Unexpected Caller",
+        false,
+        false
+    ],
+    [
+        "36-Invisible Thread",
+        false,
+        false
+    ],
+    [
+        "29-I-Charge",
+        false,
+        false
+    ],
+    [
+        "42-Princess of Fate",
+        false,
+        false
+    ],
+    [
+        "22-Fight to Tomorrow",
+        false,
+        false
+    ],
+    [
+        "30-II-Reclaim the Capital",
+        false,
+        false
+    ],
+    [
+        "41-The King of Bern",
+        false,
+        false
+    ],
+    [
+        "18-Binding Ties",
+        false,
+        false
+    ],
+    [
+        "46-Time of Sadness",
+        false,
+        false
+    ],
+    [
+        "31-III-Unseen Enemy",
+        false,
+        false
+    ],
+    [
+        "07-Legendary Inheritance",
+        false,
+        false
+    ],
+    [
+        "03-Frontier",
+        false,
+        false
+    ],
+    [
+        "09-Messenger from the Darkness",
+        false,
+        false
+    ],
+    [
+        "04-Polar Region",
+        false,
+        false
+    ],
+    [
+        "06-Sanctuary of Dragons",
+        false,
+        false
+    ],
+    [
+        "24-Battle for Whose Sake",
+        false,
+        false
+    ],
+    [
+        "25-Shaman in the Dark",
+        false,
+        false
+    ],
+    [
+        "45-Melancholy",
+        false,
+        false
+    ],
+    [
+        "40-Dark Priestess",
+        false,
+        false
+    ],
+    [
+        "44-Dignity",
+        false,
+        false
+    ],
+    [
+        "37-Distant Utopia",
+        false,
+        false
+    ],
+    [
+        "21-The Last Dragon",
+        false,
+        false
+    ],
+    [
+        "58-Shocking Truth I",
+        false,
+        false
+    ],
+    [
+        "59-Shocking Truth II",
+        false,
+        false
+    ],
+    [
+        "60-Talking",
+        false,
+        false
+    ],
+    [
+        "33-Prepare to Charge",
+        false,
+        false
+    ],
+    [
+        "28-To the Heights",
+        false,
+        false
+    ],
+    [
+        "19-Winning Road",
+        false,
+        false
+    ],
+    [
+        "20-Poem of Breeze",
+        false,
+        false
+    ],
+    [
+        "27-Healing",
+        false,
+        false
+    ],
+    [
+        "26-Curing",
+        false,
+        false
+    ],
+    [
+        "54-Arena-Entrance",
+        false,
+        false
+    ],
+    [
+        "55-Arena-Battle",
+        false,
+        false
+    ],
+    [
+        "61-Captivating Dance",
+        false,
+        false
+    ],
+    [
+        "32-IV-Final Chapter",
+        false,
+        false
+    ],
+    [
+        "53-Secret Shop",
+        false,
+        false
+    ],
+    [
+        "57-Main Theme Motif",
+        false,
+        false
+    ],
+    [
+        "49-Epilogue",
+        false,
+        false
+    ],
+    [
+        "50-Results",
+        false,
+        false
+    ],
+    [
+        "99-Ally Falls",
+        false,
+        false
+    ],
+    [
+        "52-Game Over",
+        false,
+        false
+    ],
+    [
+        "99-Lalum-Attack",
+        false,
+        false
+    ],
+    [
+        "99-Arena-Victory",
+        false,
+        false
+    ],
+    [
+        "51-After the War",
+        false,
+        false
+    ],
+    [
+        "63-Eternal-Wind",
+        false,
+        false
+    ],
+    [
+        "62-Prelude",
+        false,
+        false
+    ],
+    [
+        "64-The Beginning",
+        false,
+        false
+    ]
+]

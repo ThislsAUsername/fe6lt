@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "CurrentParty",
+        "desc": "GlobalVar:Contains nids for all units in the current party"
+    },
+    {
+        "nid": "FirstRouteSplit",
+        "desc": "LevelVar:Tracks whether player goes to Route A or B for CH. 10+11"
+    },
+    {
+        "nid": "SecondRouteSplit",
+        "desc": "GlobalVar:Tracks whether player goes to Ilia or Sacae"
+    },
+    {
+        "nid": "CathTalks",
+        "desc": "GlobalVar:Tracks how many times you've talked to Cath"
+    },
+    {
+        "nid": "FinalChaptersAchieved",
+        "desc": "GlobalVar:True if you unlocked the last 3 chapters, else False"
+    },
+    {
+        "nid": "GoodEndingAchieved",
+        "desc": "GlobalVar:True if Idunn defeated with Binding Blade, else False"
+    }
+]

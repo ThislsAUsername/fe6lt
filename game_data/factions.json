@@ -1,0 +1,282 @@
+[
+    {
+        "nid": "Soldier",
+        "name": "Soldier",
+        "desc": "The army of Grado, the largest nation on the entire continent",
+        "icon_nid": "KnightEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Cutthroat",
+        "name": "Cutthroat",
+        "desc": "A member of Bazba's Bandits, who roam this region.",
+        "icon_nid": "BanditEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "BanditSS",
+        "name": "BanditSS",
+        "desc": "One of the bandits who have laid claim to the Carcino territories.",
+        "icon_nid": "NeutralEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Wall",
+        "name": "Wall",
+        "desc": "",
+        "icon_nid": "BlankEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Monster",
+        "name": "Monster",
+        "desc": "A grotesque creature created by magic and born in darkness.",
+        "icon_nid": "MonsterEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "BrigandLycia",
+        "name": "Brigand",
+        "desc": "Brigands of Lycia",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Thria",
+        "name": "Thria",
+        "desc": "Soldiers of Thria who betrayed the Lycian league.",
+        "icon_nid": "LyciaEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Bern",
+        "name": "Bern",
+        "desc": "Soldiers from the eastern kingdom of Bern.",
+        "icon_nid": "BernEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Rebels",
+        "name": "Rebels",
+        "desc": "Soldiers serviing Leygance and the rebellion.",
+        "icon_nid": "LyciaEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Laus",
+        "name": "Laus",
+        "desc": "Soldiers in service to the Laus territory of Lycia.",
+        "icon_nid": "LyciaEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Ilia",
+        "name": "Ilia",
+        "desc": "Knights from the northern kingdom of Ilia.",
+        "icon_nid": "IliaEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Etruria",
+        "name": "Etruria",
+        "desc": "Soldiers from the western kingdom of Etruria.",
+        "icon_nid": "EtruriaEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Sacae",
+        "name": "Sacae",
+        "desc": "Nomadic warriors from the plains of Sacae.",
+        "icon_nid": "SacaeEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Djute",
+        "name": "Djute",
+        "desc": "Warriors of the Djute clan who support Bern.",
+        "icon_nid": "SacaeEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Dragon",
+        "name": "Dragon",
+        "desc": "War dragons created by the demon dragon.",
+        "icon_nid": "BernEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Pirate",
+        "name": "Pirate",
+        "desc": "Pirates who roam the seas.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Bandit",
+        "name": "Bandit",
+        "desc": "Bandits who roam the mountains.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Civilian",
+        "name": "Civilian",
+        "desc": "Regular civilians who do not fight in war.",
+        "icon_nid": "",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Western Isles",
+        "name": "Western Isles",
+        "desc": "Bandits roaming the Western Isles.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Armagh",
+        "name": "Armagh",
+        "desc": "Soldiers defending Castle Armagh.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Pegasus Knight",
+        "name": "Pegasus Knight",
+        "desc": "Mercenary knights of Ilia.",
+        "icon_nid": "IliaEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Archer",
+        "name": "Archer",
+        "desc": "Soldiers from the Western Kingdom of Etruria.",
+        "icon_nid": "EtruriaEmblem",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Eburacum",
+        "name": "Etruria",
+        "desc": "Soldiers guarding Eburacum.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "BanditDesert",
+        "name": "Bandit",
+        "desc": "Brigands who ambush travellers in the desert.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Thief",
+        "name": "Thief",
+        "desc": "Thieves hunting for treasure to pilfer.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "Resistance",
+        "name": "Resistance",
+        "desc": "Citizens who have taken up arms to fight for the people.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "EidynaCitizen",
+        "name": "Citizen",
+        "desc": "Citizens who escaped\nfrom Castle Eidyna.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    },
+    {
+        "nid": "EidynaSoldier",
+        "name": "Soldier",
+        "desc": "Soldiers defending\nCastle Eidyna.",
+        "icon_nid": "BanditEmblem_1",
+        "icon_index": [
+            0,
+            0
+        ]
+    }
+]

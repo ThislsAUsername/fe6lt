@@ -84,10 +84,6 @@
         "expression": "0"
     },
     {
-        "nid": "HEAL",
-        "expression": "MAG"
-    },
-    {
         "nid": "CONSTITUTION",
         "expression": "CON"
     },
@@ -110,5 +106,17 @@
     {
         "nid": "MAGIC_SWORD",
         "expression": "MAG + STR//2"
+    },
+    {
+        "nid": "HEAL",
+        "expression": "MAG + 10"
+    },
+    {
+        "nid": "TINA_HEAL",
+        "expression": "MAG + 15"
+    },
+    {
+        "nid": "MEND",
+        "expression": "MAG + 20"
     }
 ]

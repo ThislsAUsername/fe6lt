@@ -5462,8 +5462,8 @@
                 ]
             ],
             [
-                "magic_heal",
-                20
+                "equation_heal",
+                "MEND"
             ],
             [
                 "weight",
@@ -5632,8 +5632,8 @@
                 ]
             ],
             [
-                "magic_heal",
-                10
+                "equation_heal",
+                "HEAL"
             ],
             [
                 "max_equation_range",
@@ -5707,8 +5707,8 @@
                 8000
             ],
             [
-                "magic_heal",
-                10
+                "equation_heal",
+                "HEAL"
             ],
             [
                 "equation_blast_aoe",
@@ -12889,8 +12889,8 @@
                 100
             ],
             [
-                "magic_heal",
-                15
+                "equation_heal",
+                "TINA_HEAL"
             ],
             [
                 "battle_animation_music",

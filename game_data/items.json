@@ -6019,7 +6019,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.wexp['Light'] or unit.wexp['Anima'] or unit.wexp['Dark'] or unit.wexp['Staff']"
             ],
             [
@@ -10350,7 +10350,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.level >= 10"
             ],
             [
@@ -10413,7 +10413,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.level >= 10"
             ],
             [
@@ -10490,7 +10490,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.level >= 10"
             ],
             [
@@ -10545,7 +10545,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.level >= 10"
             ],
             [
@@ -10608,7 +10608,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.level >= 10"
             ],
             [
@@ -10715,7 +10715,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.level >= 10"
             ]
         ]
@@ -10754,7 +10754,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.level >= 10"
             ],
             [
@@ -10805,7 +10805,7 @@
                 null
             ],
             [
-                "eval_target_restrict",
+                "eval_target_restrict_2",
                 "unit.level >= 10"
             ]
         ]

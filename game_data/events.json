@@ -3000,7 +3000,7 @@
             "music_clear;2000",
             "transition;close;2000",
             "change_background",
-            "overworld_cinematic;Elibe",
+            "overworld_cinematic;1",
             "transition;open;500",
             "music;29-I-Charge;100",
             "#toggle_narration_mode;open;1000",
@@ -3423,7 +3423,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "transition;open;400",
             "music;29-I-Charge;100",
             "#toggle_narration_mode;open;1000",
@@ -3871,7 +3871,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "transition;open;400",
             "music;29-I-Charge;100",
             "#toggle_narration_mode;open;1000",
@@ -4233,7 +4233,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "transition;open;400",
             "music;29-I-Charge;100",
             "#toggle_narration_mode;open;1000",
@@ -4871,7 +4871,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "transition;open;400",
             "music;29-I-Charge;100",
             "#toggle_narration_mode;open;1000",
@@ -5359,7 +5359,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "transition;open;400",
             "music;29-I-Charge;100",
             "#toggle_narration_mode;open;1000",
@@ -6482,7 +6482,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "transition;open;400",
             "music;29-I-Charge;100",
             "#toggle_narration_mode;open;1000",
@@ -6998,7 +6998,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "music;29-I-Charge;100",
             "#toggle_narration_mode;open;1000",
             "wait;500",
@@ -7634,7 +7634,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "#toggle_narration_mode;open;1000",
             "music;31-III-Unseen Enemy;0",
             "transition;open;300",
@@ -8122,7 +8122,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;Elibe",
+            "overworld_cinematic;1",
             "transition;open;400",
             "music;30-II-Reclaim the Capital;100",
             "wait;500",
@@ -8754,7 +8754,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNW",
+            "overworld_cinematic;4",
             "transition;open;500",
             "music;30-II-Reclaim the Capital;100",
             "wait;500",
@@ -8928,7 +8928,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNW",
+            "overworld_cinematic;4",
             "transition;open;300",
             "music;30-II-Reclaim the Capital;100",
             "wait;500",
@@ -10914,7 +10914,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNW",
+            "overworld_cinematic;4",
             "transition;open;300",
             "music;30-II-Reclaim the Capital;100",
             "wait;500",
@@ -11327,7 +11327,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;Elibe",
+            "overworld_cinematic;1",
             "music;30-II-Reclaim the Capital;0",
             "transition;open;300",
             "wait;500",
@@ -11781,7 +11781,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSW",
+            "overworld_cinematic;5",
             "music;30-II-Reclaim the Capital;100",
             "transition;open;300",
             "speak;Narrator;The chaos caused by the coup in Aquileia quickly spreads to the rest of Etruria.{w}{c:add_portrait;Cecilia;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)}{c:add_portrait;Guinivere;Right,Middle;left;OpenEyes}{clear}Cecilia escapes with Guinivere from Aquileia.|She also forms a loyalist group to combat the revolutionaries.|{c:multi_remove_portrait;Cecilia;Guinivere}The revolutionaries, however, have Bern on their side.|{c:add_portrait;King Mordred;CenterRight,Middle;left;OpenEyes}King Mordred has also been taken hostage, giving the revolutionaries another edge:{w}{c:remove_portrait;King Mordred}{c:add_portrait;Douglas;Right,Middle;left;OpenEyes}{c:add_portrait;Perceval;Left,Middle;right;OpenEyes;FLAG(mirror)} Great General Douglas and Knight General Perceval are forced into their service.|With so much power, the revolutionaries easily push the loyalists out of Etruria.;;;narration;FLAG(hold)",
@@ -12533,7 +12533,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSW",
+            "overworld_cinematic;5",
             "music;30-II-Reclaim the Capital;100",
             "transition;open;300",
             "add_portrait;Roy;Right;left;OpenEyes;FLAG(no_block)",
@@ -12648,7 +12648,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;Elibe",
+            "overworld_cinematic;1",
             "music;31-III-Unseen Enemy;0",
             "transition;open;300",
             "add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(mirror)",
@@ -13435,7 +13435,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSW",
+            "overworld_cinematic;5",
             "music;30-II-Reclaim the Capital;100",
             "transition;open;300",
             "#add_portrait;Igrene;Left,Middle;right;Smile;FLAG(mirror);FLAG(no_block)",
@@ -14091,7 +14091,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "music;30-II-Reclaim the Capital;100",
             "transition;open;300",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(no_block);FLAG(mirror)",
@@ -15086,7 +15086,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;Elibe",
+            "overworld_cinematic;1",
             "music;31-III-Unseen Enemy;100",
             "transition;open;300",
             "wait;500",
@@ -15558,7 +15558,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNE",
+            "overworld_cinematic;3",
             "merge_parties;Etruria;Lycia",
             "music;30-II-Reclaim the Capital;100",
             "transition;open;300",
@@ -16369,7 +16369,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNE",
+            "overworld_cinematic;3",
             "music;31-III-Unseen Enemy;100",
             "wait;500",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -17005,7 +17005,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNE",
+            "overworld_cinematic;3",
             "music;31-III-Unseen Enemy;100",
             "transition;open;300",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -17468,7 +17468,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNE",
+            "overworld_cinematic;3",
             "music;31-III-Unseen Enemy;100",
             "transition;open;300",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -17595,7 +17595,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNE",
+            "overworld_cinematic;3",
             "music;31-III-Unseen Enemy;100",
             "transition;open;300",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -18485,7 +18485,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;Elibe",
+            "overworld_cinematic;1",
             "music;32-IV-Final Chapter",
             "transition;open;300",
             "speak;Narrator;After surviving many hardships, Roy finally sets foot on Bern's soil.{w}{clear}Guinivere guides Roy to the Shrine of Seals.|{c:add_portrait;Murdock;CenterRight,Middle;left;OpenEyes;FLAG(no_block)}In their way stands Murdock, the brilliant and stalwart head of the Wyvern Generals.{w}{c:wait;400}{c:remove_portrait;Murdock}{clear}Etruria and Bern, the two greatest forces on the continent, begin direct warfare.|The sun rises as the bloodiest day in the history of Elibe dawns...;;;narration;FLAG(hold)",
@@ -19128,7 +19128,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "music;32-IV-Final Chapter",
             "transition;open;300",
             "#add_portrait;Roy;Middle,Left;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -19303,7 +19303,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "music;32-IV-Final Chapter",
             "transition;open;300",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -19792,7 +19792,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "music;32-IV-Final Chapter",
             "transition;open;300",
             "#add_portrait;Roy;Middle,Left;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -20308,7 +20308,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "music;32-IV-Final Chapter",
             "transition;open;300",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -21424,7 +21424,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNW",
+            "overworld_cinematic;4",
             "music;30-II-Reclaim the Capital",
             "wait;500",
             "add_portrait;Roy;Right,Middle;left;OpenEyes;FLAG(no_block)",
@@ -21562,7 +21562,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeNW",
+            "overworld_cinematic;4",
             "music;30-II-Reclaim the Capital",
             "wait;500",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(no_block);FLAG(mirror)",
@@ -23246,7 +23246,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "merge_parties;Etruria;Lycia",
             "music;30-II-Reclaim the Capital",
             "#toggle_narration_mode;open;1000",
@@ -23503,7 +23503,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "music;31-III-Unseen Enemy",
             "#toggle_narration_mode;open;1000",
             "wait;500",
@@ -23880,7 +23880,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;ElibeSE",
+            "overworld_cinematic;2",
             "music;31-III-Unseen Enemy",
             "#toggle_narration_mode;open;1000",
             "wait;500",
@@ -24666,7 +24666,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;Elibe",
+            "overworld_cinematic;1",
             "music;31-III-Unseen Enemy",
             "wait;500",
             "#add_portrait;Niime;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)",
@@ -25233,7 +25233,7 @@
         "priority": 20,
         "_source": [
             "change_background",
-            "overworld_cinematic;Elibe",
+            "overworld_cinematic;1",
             "music;31-III-Unseen Enemy;100",
             "transition;open;300",
             "#add_portrait;Roy;Left,Middle;right;OpenEyes;FLAG(mirror);FLAG(no_block)",

@@ -1321,7 +1321,7 @@
         "name": "Fighter",
         "desc": "Axe-wielding soldiers whose attack offers little defense.",
         "tier": 1,
-        "movement_group": "Regular",
+        "movement_group": "AxeFighter",
         "promotes_from": null,
         "turns_into": [
             "warrior"
@@ -1450,7 +1450,7 @@
         "name": "Warrior",
         "desc": "An honorific bestowed upon strong, battle-worn fighters.",
         "tier": 2,
-        "movement_group": "Regular",
+        "movement_group": "AxeFighter",
         "promotes_from": "fighter",
         "turns_into": [],
         "tags": [],
@@ -5226,7 +5226,7 @@
         "name": "Nomad",
         "desc": "Sacaen plainsmen with good movement. Armed with bows.",
         "tier": 1,
-        "movement_group": "Grassrunners",
+        "movement_group": "Nomad",
         "promotes_from": null,
         "turns_into": [
             "nmdtrooper_m"
@@ -5363,7 +5363,7 @@
         "name": "Nomad",
         "desc": "Sacaen plainsmen with good movement. Armed with bows.",
         "tier": 1,
-        "movement_group": "Grassrunners",
+        "movement_group": "Nomad",
         "promotes_from": null,
         "turns_into": [
             "nmdtrooper_f"
@@ -5500,7 +5500,7 @@
         "name": "Nomadic Trooper",
         "desc": "An honorific bestowed upon nomads of great skill.",
         "tier": 2,
-        "movement_group": "Grassrunners",
+        "movement_group": "Adv Nomad",
         "promotes_from": "nomad_m",
         "turns_into": [],
         "tags": [
@@ -5635,7 +5635,7 @@
         "name": "Nomadic Trooper",
         "desc": "An honorific bestowed upon nomads of great skill.",
         "tier": 2,
-        "movement_group": "Grassrunners",
+        "movement_group": "Adv Nomad",
         "promotes_from": "nomad_f",
         "turns_into": [],
         "tags": [
@@ -8731,7 +8731,7 @@
         "name": "Civilian",
         "desc": "An innocent peasant with no combat skills at all.",
         "tier": 1,
-        "movement_group": "Regular",
+        "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [],
         "tags": [
@@ -8860,7 +8860,7 @@
         "name": "Civilian",
         "desc": "An innocent peasant with no combat skills at all.",
         "tier": 1,
-        "movement_group": "Regular",
+        "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [],
         "tags": [
@@ -8989,7 +8989,7 @@
         "name": "Child",
         "desc": "An innocent peasant with no combat skills at all.",
         "tier": 1,
-        "movement_group": "Regular",
+        "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [],
         "tags": [
@@ -9118,7 +9118,7 @@
         "name": "Child",
         "desc": "An innocent peasant with no combat skills at all.",
         "tier": 1,
-        "movement_group": "Regular",
+        "movement_group": "Light Foot",
         "promotes_from": null,
         "turns_into": [],
         "tags": [

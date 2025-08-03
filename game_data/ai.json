@@ -688,26 +688,6 @@
                 "roam_speed": 100,
                 "desired_proximity": 0,
                 "condition": ""
-            },
-            {
-                "action": "Interact",
-                "target": "Event",
-                "target_spec": "on_talk",
-                "view_range": -3,
-                "invert_targeting": false,
-                "roam_speed": 100,
-                "desired_proximity": 0,
-                "condition": "unit.nid==\"Clarine\" and unit2.nid==\"Roy\""
-            },
-            {
-                "action": "None",
-                "target": "None",
-                "target_spec": null,
-                "view_range": 0,
-                "invert_targeting": false,
-                "roam_speed": 100,
-                "desired_proximity": 0,
-                "condition": ""
             }
         ],
         "priority": 20,

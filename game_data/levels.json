@@ -11775,7 +11775,7 @@
                     3
                 ],
                 "sub_nid": "Door",
-                "condition": "unit.can_unlock(region)",
+                "condition": "unit.team == 'player' and unit.can_unlock(region)",
                 "time_left": null,
                 "only_once": true,
                 "interrupt_move": false,
